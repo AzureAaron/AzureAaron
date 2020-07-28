@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there! My name's Aaron! 👋🏼
 
+### I'm a Java and JavaScript Developer
+
+There's not much to myself but...
+* Avid Hypixel/Minecraft Player
+* Good with Photoshop/GFX Design
+* Developer of Minecraft Bukkit Plugins
+* Developer of Discord Bots
+
+### ***~~AzureAaron*** ![e](https://img.shields.io/badge/Last%20Updated-Tuesday,%20July%2028th,%202020%20@%201:11%20AM-orange)
 <!--
 **AzureAaron/AzureAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
